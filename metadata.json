@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Smart Attendance",
+  "description": "A smart attendance system using facial recognition and implicit liveness checks powered by Gemini. Users can register their face and mark attendance, while admins can view the attendance log.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
